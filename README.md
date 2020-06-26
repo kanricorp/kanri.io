@@ -1,2 +1,1 @@
-# website
-website for kanri 
+https://kanricorp.github.io/kanri.io/ 
