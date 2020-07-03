@@ -38,7 +38,7 @@ a:hover {
 
 .section-heading {
   text-align: center;
-  margin-bottom: 65px;
+  margin-bottom: 35px;
 }
 
 .section-heading p {
@@ -615,6 +615,14 @@ figure figcaption p {
 
 #feature .media .media-left {
   padding-right: 25px;
+}
+
+#feature .media .media-left .media-icons {
+  width: 50%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #feature h3 {
@@ -1214,7 +1222,7 @@ article {
 }
 
 .team-member .team-img .team-pic {
-  width: 70%;
+  width: 50%;
   border-radius: 50%;
   display: block;
   margin-left: auto;
